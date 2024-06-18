@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_waves_utils",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_waves_utils",
+  "parent":{
+    "name":"Waves",
+    "path":"folders/Objects/Managers/Waves.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_weapons_manager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_weapons_manager",
+  "parent":{
+    "name":"Managers",
+    "path":"folders/Objects/Managers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

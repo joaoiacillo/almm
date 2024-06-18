@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_arrow",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.660317,
+  "name":"snd_arrow",
+  "parent":{
+    "name":"Bow",
+    "path":"folders/Objects/Weapons/Bow.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_arrow.wav",
+  "type":0,
+  "volume":1.0,
+}

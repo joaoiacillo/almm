@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_world_to_gui_coords",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_world_to_gui_coords",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

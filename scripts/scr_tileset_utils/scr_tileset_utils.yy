@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_tileset_utils",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tileset_utils",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_projectile_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_projectile_functions",
+  "parent":{
+    "name":"Projectile",
+    "path":"folders/Objects/Parents/Projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

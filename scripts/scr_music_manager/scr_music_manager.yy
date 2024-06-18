@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_music_manager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_music_manager",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Objects/Managers/Music.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

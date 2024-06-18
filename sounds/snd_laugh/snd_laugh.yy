@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_laugh",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":6.421769,
+  "name":"snd_laugh",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Objects/Entities/Player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_laugh.wav",
+  "type":0,
+  "volume":1.0,
+}

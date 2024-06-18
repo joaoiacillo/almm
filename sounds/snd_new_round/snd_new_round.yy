@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_new_round",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.269615,
+  "name":"snd_new_round",
+  "parent":{
+    "name":"Waves",
+    "path":"folders/Objects/Managers/Waves.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_new_round.wav",
+  "type":0,
+  "volume":1.0,
+}

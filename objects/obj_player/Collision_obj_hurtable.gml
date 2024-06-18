@@ -1,0 +1,1 @@
+hurt_player(other);

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_room_manager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_room_manager",
+  "parent":{
+    "name":"Managers",
+    "path":"folders/Objects/Managers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
